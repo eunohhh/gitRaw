@@ -2,27 +2,33 @@
     "team04" : [
         {
             "name" : "sangjun",
-            "role" : "leader"
+            "role" : "leader",
+            "mbti" : "ESFP"
         },
         {
             "name" : "sumi",
-            "role" : "member"
+            "role" : "member",
+            "mbti" : "ISFP"
         },
         {
             "name" : "eun",
-            "role" : "member"
+            "role" : "member",
+            "mbti" : "INTJ"
         },
         {
             "name" : "minsu",
-            "role" : "member"
+            "role" : "member",
+            "mbti" : "INTJ"
         },
         {
             "name" : "byungjun",
-            "role" : "member"
+            "role" : "member",
+            "mbti" : "INFJ"
         },
         {
             "name" : "yusang",
-            "role" : "member"
+            "role" : "member",
+            "mbti" : "INTJ"
         }
     ] 
 }
