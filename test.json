@@ -1,0 +1,28 @@
+{
+    "team04" : [
+        {
+            "name" : "sangjun",
+            "role" : "leader"
+        },
+        {
+            "name" : "sumi",
+            "role" : "member"
+        },
+        {
+            "name" : "eun",
+            "role" : "member"
+        },
+        {
+            "name" : "minsu",
+            "role" : "member"
+        },
+        {
+            "name" : "byungjun",
+            "role" : "member"
+        },
+        {
+            "name" : "yusang",
+            "role" : "member"
+        }
+    ] 
+}
